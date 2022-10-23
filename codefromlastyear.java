@@ -1,4 +1,3 @@
-
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
@@ -7,8 +6,8 @@ import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
-@Autonomous(name = "BlueHomeRunv022122.java", group = "")
-public class BlueHomeRunv022122 extends LinearOpMode {
+@Autonomous(name = "RedCarouselRunv020922.java", group = "")
+public class RedCarouselRunv020922 extends LinearOpMode {
 
   private DcMotor Rightfrontmotor;
   private DcMotor Rightbackmotor;
@@ -111,12 +110,20 @@ public class BlueHomeRunv022122 extends LinearOpMode {
     
     
     if (opModeIsActive()) {
-      goBackwards();
-      sleep(950);
+      
+      // Use this when in the !CLOSEST! square.
+      
+      goForward();
+      sleep(350);
+      goLeft();
+      sleep(900);
+      endMotion();
       useSpin();
       sleep(4500);
       stopSpin();
-      goRight();
+      goForward();
+      sleep(250);
+      goLeft();
       sleep(750);
       endMotion();
     }
