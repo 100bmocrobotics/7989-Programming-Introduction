@@ -15,3 +15,8 @@ that is also where i tried to use the touch sensor.
 the files and github has been revamped
 
 keeping this here for first time memories stuff (first time we've used github right now)
+
+when making a new repository use FTC_[year1here]to[year2here]
+put the psudocode (if any), autonomous and driver period code in it
+describe the robots NEW functions in the description of the overall repository
+if you check notepad on the main computer, you'll see notes on prior years and meetings that may help you grasp the code easier
