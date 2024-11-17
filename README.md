@@ -9,3 +9,9 @@ the color sensor isn't working (it isn't showing up in the driverhub robot manag
 also, the password to the old robot is arex7989 and that one code thing we used last year is called http://192.168.43.1:8080/
 
 that is also where i tried to use the touch sensor.
+
+# 11/17/24
+
+the files and github has been revamped
+
+keeping this here for first time memories stuff (first time we've used github right now)
