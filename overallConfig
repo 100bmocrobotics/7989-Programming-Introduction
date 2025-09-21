@@ -1,0 +1,20 @@
+// FTC Tech
+
+// Language = Java
+
+// -- Libraries --
+package org.firstinspires.ftc.teamcode;
+
+import android.graphics.Camera;
+
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
+import com.qualcomm.robotcore.hardware.DcMotor;
+import com.qualcomm.robotcore.hardware.DcMotorSimple;
+import com.qualcomm.robotcore.hardware.Servo;
+
+// -- Config --
+DcMotor rbMotor = hardwareMap.get(DcMotor.class, "Rightbackmotor");
+DcMotor rfMotor = hardwareMap.get(DcMotor.class, "Rightfrontmotor");
+DcMotor lfMotor = hardwareMap.get(DcMotor.class, "Leftfrontmotor");
+DcMotor lbMotor = hardwareMap.get(DcMotor.class, "Leftbackmotor");
