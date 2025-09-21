@@ -1,5 +1,5 @@
 # 9/21/25
-This is now public and stuff. Has some basic code that is mainly used for team 7989 and its fairly simple. For those on our team, in the overall config file, you can either use AI to quickly make a mock program (please be very specific or you might break components on the robot) and be sure to proof read the code and remodel it since.. as it may run, it might not be very readable to you so try not to just full on copy and paste stuff. If there are any hardware issues, you might need to check the configuration on the drivers hub. On the programming computer is the password for the robot as well inside of the 24-25 seasons meetingLog text file. 
+This is now public. Has some basic code that is mainly used for team 7989 and its fairly simple. For those on our team, in the overall config file, you can either use AI to quickly make a mock program (please be very specific or you might break components on the robot) and be sure to proof read the code and remodel it since.. as it may run, it might not be very readable to you so try not to just full on copy and paste stuff. If there are any hardware issues, you might need to check the configuration on the drivers hub. On the programming computer is the password for the robot as well inside of the 24-25 seasons meetingLog text file. 
 
 # 11/17/24
 
